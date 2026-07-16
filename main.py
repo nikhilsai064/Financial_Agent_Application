@@ -1,4 +1,4 @@
-"""Entry point: `python main.py analyze AAPL`."""
+"""Entry point: `python main.py analyze AAPL  `."""
 
 from financial_agent.cli import main
 
